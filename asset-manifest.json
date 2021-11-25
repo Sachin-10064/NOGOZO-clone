@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/NOGOZO-clone/static/css/main.d3ee7c53.chunk.css",
+    "main.js": "/NOGOZO-clone/static/js/main.a9d12cf4.chunk.js",
+    "main.js.map": "/NOGOZO-clone/static/js/main.a9d12cf4.chunk.js.map",
+    "runtime-main.js": "/NOGOZO-clone/static/js/runtime-main.95ae0295.js",
+    "runtime-main.js.map": "/NOGOZO-clone/static/js/runtime-main.95ae0295.js.map",
+    "static/css/2.4d8d6c40.chunk.css": "/NOGOZO-clone/static/css/2.4d8d6c40.chunk.css",
+    "static/js/2.0212d9d4.chunk.js": "/NOGOZO-clone/static/js/2.0212d9d4.chunk.js",
+    "static/js/2.0212d9d4.chunk.js.map": "/NOGOZO-clone/static/js/2.0212d9d4.chunk.js.map",
+    "static/js/3.acf07d08.chunk.js": "/NOGOZO-clone/static/js/3.acf07d08.chunk.js",
+    "static/js/3.acf07d08.chunk.js.map": "/NOGOZO-clone/static/js/3.acf07d08.chunk.js.map",
+    "index.html": "/NOGOZO-clone/index.html",
+    "static/css/2.4d8d6c40.chunk.css.map": "/NOGOZO-clone/static/css/2.4d8d6c40.chunk.css.map",
+    "static/css/main.d3ee7c53.chunk.css.map": "/NOGOZO-clone/static/css/main.d3ee7c53.chunk.css.map",
+    "static/js/2.0212d9d4.chunk.js.LICENSE.txt": "/NOGOZO-clone/static/js/2.0212d9d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95ae0295.js",
+    "static/css/2.4d8d6c40.chunk.css",
+    "static/js/2.0212d9d4.chunk.js",
+    "static/css/main.d3ee7c53.chunk.css",
+    "static/js/main.a9d12cf4.chunk.js"
+  ]
+}
