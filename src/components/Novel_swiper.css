@@ -1,0 +1,32 @@
+.novel__slider{
+    width: 600px;
+    box-sizing: content-box;
+    padding: 2%;
+}
+
+.novel__image{
+    display: block;
+    object-fit: cover;
+    border-radius: 40px;
+    width: 600px;
+    height: 200px;
+}
+
+.novel__heading{
+    font-size: 34px;
+    margin: 2%;
+}
+
+@media screen and (max-width:786px) {
+    .novel__slider{
+        width: 300px;
+    }
+    .novel__image{
+        width: 300px;
+        height: 100px ;
+        border-radius: 20px;
+    }
+    .novel__heading{
+        font-size: 20px;
+    }
+}

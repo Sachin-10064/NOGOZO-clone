@@ -1,0 +1,72 @@
+.classes{
+    display: flex;
+    flex-direction: column;
+}
+.classes__school, .classes__compitions{
+    display: flex;
+    margin: 10px;
+}
+
+.classes__container{
+    justify-content: space-evenly;
+    margin: auto;
+    text-align: center;
+}
+.classes__box > p{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 40px;
+    position:static;
+    padding-top: 36%;
+    font-family: 'Playfair Display', serif;
+}
+.classes__box {
+    background-color: rgb(184, 207, 238);
+    color:rgb(9, 63, 134);
+    width: 200px;
+    height: 200px;
+    border-radius: 18%;
+    margin-bottom: 10%;
+}
+@media screen and (max-width:1060px) {
+    .classes__box{
+        width: 150px;
+        height: 150px;
+    }
+    .classes__box > p{
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width:786px) {
+    .classes__box{
+        width: 100px;
+        height: 100px;
+    }
+    .classes__box > p{
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width:540px) {
+    .classes__box{
+        width: 75px;
+        height: 75px;
+    }
+    .classes__box > p{
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .classes__box{
+        width: 50px;
+        height: 50px;
+    }
+    .classes__box > p{
+        font-size: 10px;
+    }
+    .classes__container > span{
+        font-size: 12px;
+    }
+}
